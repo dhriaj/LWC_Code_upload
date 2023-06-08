@@ -3,7 +3,7 @@ public class test {
     @AuraEnabled
     //@AuraEnabled
     //@AuraEnabled
-    //@AuraEnabledaaaaaaaaaaa
+    //@AuraEnabledaaaaaaaaa
     public static List<Contact> getlist( id getselectedrow)
     {
         
