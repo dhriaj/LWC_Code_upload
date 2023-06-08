@@ -5,6 +5,7 @@ public class test {
     //@AuraEnabled
     //@AuraEnabledaaaaaaaaa
     public static List<Contact> getlist( id getselectedrow)
+        //public static List<Contact> getlist( id getselectedrow)
     {
         
         List<Contact> Getrecord = [Select Accountid , name  from Contact where accountid =: getselectedrow];
