@@ -1,7 +1,7 @@
 public class test {
 
     @AuraEnabled
-    //Dheeraj
+    
     public static List<Contact> getlist( id getselectedrow)
         //public static List<Contact> getlist( id getselectedrow)
     {
