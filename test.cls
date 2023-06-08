@@ -2,6 +2,8 @@ public class test {
 
     @AuraEnabled
     //@AuraEnabled
+    //@AuraEnabled
+    //@AuraEnabled
     public static List<Contact> getlist( id getselectedrow)
     {
         
