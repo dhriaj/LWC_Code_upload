@@ -1,9 +1,7 @@
 public class test {
 
     @AuraEnabled
-    //@AuraEnabled
-    //@AuraEnabled
-    //@AuraEnabledaaaaaaaaa
+    //Dheeraj
     public static List<Contact> getlist( id getselectedrow)
         //public static List<Contact> getlist( id getselectedrow)
     {
