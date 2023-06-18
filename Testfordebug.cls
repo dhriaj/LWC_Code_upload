@@ -2,8 +2,8 @@ public with sharing class Testfordebug {
     public static void testrecord() {
     
     string firstname ='Dheeraj';
-    string Lastname ='Sharma';
-    string fullname =firstname + Lastname;
+    string lastname = 'Sharma';
+    string fullname =firstname + lastname;
     System.debug('test Redcord'+fullname);
     
     
