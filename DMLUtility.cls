@@ -1,6 +1,7 @@
 global class DMLUtility implements Database.Batchable<SObject> , Database.stateful
  {
     global Set<id> allFailedId = new Set<id>();
+    //global Set<id> allFailedId = new Set<id>();
 global Database.querylocator start(Database.Batchablecontext bx)
 {
  
